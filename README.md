@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kevin96.lat@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/kevin-cicerchia-43099a240/" target="blank">Resume</a>
 <!--
 **KevinCicerchia/KevinCicerchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
