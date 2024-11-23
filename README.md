@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working in <a href="https://www.mawdy.com.ar/" target="blank">Mawdy Argentina</a>
 
-- 🌱 I’m currently Working on Web Proeyects(JavaScript)
+- 🌱 I’m currently Working on Web Proyects(JavaScript - Java - Sql)
 
 - 🌱 I’m currently learning Java && SQL <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank"></a>
 
