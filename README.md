@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **SQL**
 
-- 📫 How to reach me **kevin96.lat@gmail.com**
+- 📫 How to reach me **keviin96.lat@gmail.com**
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/kevin-cicerchia-43099a240/" target="blank">Resume</a>
 <!--
