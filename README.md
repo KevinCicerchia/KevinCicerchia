@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working in <a href="https://www.mawdy.com.ar/" target="blank">Mawdy Argentina</a>
 
-- 🌱 I’m currently Working on Web Proyects(JavaScript - Java - Sql)
+- 🌱 I’m currently Working on Web Proyects y Cibersecurity
 
-- 🌱 I’m currently learning Java && SQL <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank"></a>
+- 🌱 I’m currently some languajes to programming <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank"></a>
 
 - 💬 Ask me about **SQL**
 
