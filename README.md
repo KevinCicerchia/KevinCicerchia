@@ -11,17 +11,12 @@
 </a>
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.mawdy.com.ar/" target="blank">Mawdy Argentina</a>
+🛡️ Estudiando ciberseguridad con Cisco (CCST - Networking & Cybersecurity)
+🌱 Aprendiendo: OSI model · TCP/IP · Subnetting · Firewalls · Protocolos de red
+🔭 Practicando en: Cisco Packet Tracer · TryHackMe · Parrot Linux
+💬 Preguntame sobre: SQL, Redes, Port Scanning, Ciberseguridad basica
+📫 Contacto: keviin96.lat@gmail.com
 
-- 🌱 I’m currently Working on Web Proyects y Cibersecurity
-
-- 🌱 I’m currently some languajes to programming <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank"></a>
-
-- 💬 Ask me about **SQL**
-
-- 📫 How to reach me **keviin96.lat@gmail.com**
-
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/kevin-cicerchia-43099a240/" target="blank">Resume</a>
 <!--
 **KevinCicerchia/KevinCicerchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
