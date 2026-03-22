@@ -15,7 +15,6 @@
 
 ![Cisco](https://img.shields.io/badge/Cisco-CCST%20Cybersecurity-blue?logo=cisco)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-Blue_Team-15E0ED?logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
 ![Shell Script](https://img.shields.io/badge/Shell-Scripting-black?logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
