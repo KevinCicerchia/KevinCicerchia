@@ -14,16 +14,25 @@
 ## 🧠 Sobre mí
 
 ![Cisco](https://img.shields.io/badge/Cisco-CCST%20Cybersecurity-blue?logo=cisco)
+
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Learner-red?logo=tryhackme)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-Blue_Team-15E0ED?logo=linux&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
+
 ![Shell Script](https://img.shields.io/badge/Shell-Scripting-black?logo=gnubash)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 🛡️ Estudiando ciberseguridad con Cisco (CCST - Networking & Cybersecurity)
+
 🌱 Aprendiendo: OSI model · TCP/IP · Subnetting · Firewalls · Protocolos de red
+
 🔭 Practicando en: Cisco Packet Tracer · TryHackMe · Kali Linux
+
 💬 Preguntame sobre: SQL, Redes, Port Scanning, Ciberseguridad básica
+
 📫 Contacto: keviin96.lat@gmail.com
 <!--
 **KevinCicerchia/KevinCicerchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
